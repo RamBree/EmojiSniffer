@@ -142,6 +142,9 @@ def test_interfaces():
     print(f"自动选择的接口: {sniffer.interface}")
 
 
+'''
+用于测试
+'''
 if __name__ == "__main__":
     # 首先测试接口
     test_interfaces()
